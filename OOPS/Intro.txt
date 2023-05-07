@@ -1,0 +1,22 @@
+OOPS(Object Oriented Programming System) is a programming paradigm based on the concept of “objects”, which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods. A feature of objects is that an object’s procedures can access and often modify the data fields of the object with which they are associated (objects have a notion of “this” or “self”). In OOP, computer programs are designed by making them out of objects that interact with one another. OOP languages are diverse, but the most popular ones are class-based, meaning that objects are instances of classes, which also determine their types.
+
+> Security
+> Code reusability
+> Data Redundancy
+> Code Maintenance
+> Code Readability
+
+1. What is an object?
+> An object is a software bundle of related state and behavior. Software objects are often used to model the real-world objects that you find in everyday life. Objects can be described as “nouns” that manage their own data and “verbs” that perform operations on the data.
+
+> A software object’s state is stored in fields and behavior is shown via methods. So in software development, methods operate on the internal state of an object and the object-to-object communication is done via methods.
+
+2. What is a class?
+> A class is a blueprint or prototype from which objects are created. It represents the set of properties or methods that are common to all objects of one type.
+
+> In general, class declarations can include these components, in order: 
+    > Modifiers : A class can be public or has default access (Refer this for details). 
+    > Class name: The name should begin with a initial letter (capitalized by convention). 
+    > Superclass(if any): The name of the class’s parent (superclass), if any, preceded by the keyword extends. 
+    > Interfaces(if any): A comma-separated list of interfaces implemented by the class, if any, preceded by the keyword implements. 
+    > Body: The class body surrounded by braces, { }.
